@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  header {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: right;
+  }
+  
+  .logo-container img {
+    width: 50px; /* Adjust the size as needed */
+    height: auto;
+  }
+  
+  nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .social-icons img {
+    width: 30px; /* Adjust the size as needed */
+    height: auto;
+    margin-left: 10px;
+  }
+  
+  .main-content {
+    padding: 20px;
+  }
+  
+  .center-container {
+    text-align: center;
+  }
+  
+  /* Feedback Form Styles */
+  
+  form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  
+  /* Add more styles as needed */
+  
